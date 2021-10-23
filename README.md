@@ -16,16 +16,17 @@ Forecasted one year of RSCCASN Sale future trends using timeseries historical mo
 Trained the timeSeries dataset on GoogleColab using LSTMs.
 
 ## TechnicalAspects
-Data Preprocessing and Scaling.
-Data Cleaning
-Exploratory Data  Analysis
-Created Batches using TimeSeries Generator.
-Trained the dataset using LSTMs  and firstly verified the forecasted results on validation data.
-by checking if achieved Similar trends as expected comparing the graph of predicted and actual trends.
-Removed Overfitting problems using EarlyStop Callbacks.
-Achieving Good accuracy in trends forecasted and Plotted the trends for next Year.
-Tuned the model.
-Saved the model.
+- Trained on GoogleColab
+- Data Preprocessing and Scaling.
+- Data Cleaning
+- Exploratory Data  Analysis
+- Created Batches using TimeSeries Generator.
+- Trained the dataset using LSTMs  and firstly verified the forecasted results on validation data.
+- by checking if achieved Similar trends as expected comparing the graph of predicted and actual trends.
+- Removed Overfitting problems using EarlyStop Callbacks.
+- Achieving Good accuracy in trends forecasted and Plotted the trends for next Year.
+- Tuned the model.
+- Saved the model.
 
 
 
