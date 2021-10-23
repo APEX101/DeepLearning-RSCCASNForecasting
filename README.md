@@ -1,7 +1,11 @@
 
 # RCCCASNDatasetForecasting using TimeSeries-RNNs
 
-![](demo.gif)
+<p float="left">
+<img src=Datatrends.png width="40%" >
+<img src=forecastedcompare.png width="40%" >
+ <img src=actualforecast.png width="100%" >
+</p>
 
 
 
@@ -29,7 +33,7 @@ Saved the model.
 
 ## ⏳ DataSet
 
-https://github.com/owid/covid-19-data/tree/master/public/data/
+https://www.kaggle.com/mrizwanse/retail-sales-clothing-clothing-accessory-stores/version/1
   
 ## 🖥️ Installation
 ### 🛠️ Requirement
@@ -38,7 +42,6 @@ https://github.com/owid/covid-19-data/tree/master/public/data/
 * TensorFlow2
 * Keras
 * Scikit-Learn
-* Plotly
 * Seaborn
 * Matplotlib
 * Pandas
@@ -49,4 +52,3 @@ https://github.com/owid/covid-19-data/tree/master/public/data/
 ## ⚙️ Tech Stack
 
 ![Alt Text](https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/187550926/original/cde47296f9d02346b6561eee753741d7272bfce6/do-data-analysis-in-python-using-numpy-pandas-matplotlib-seaborn.jpg)
-![Text](https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Plotly-logo-01-square.png/1200px-Plotly-logo-01-square.png)
